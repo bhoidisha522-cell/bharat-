@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "814467637847",
+    "project_id": "isk-sound-order-diary",
+    "storage_bucket": "isk-sound-order-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814467637847:android:9624235014isk",
+        "android_client_info": {
+          "package_name": "com.isksound.orderdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814467637847-client.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isksound.orderdiary",
+            "certificate_hash": "a1b2c3d4e5f60718293a4b5c6d7e8f9012345678"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemoKeyForISKSoundDiary9624235014"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "I. S. K Sound & Live DJ – ઓર્ડર બુક ડાયરી",
+  "description": "I. S. K Sound & Live DJ (ભરત કે.) માટે સુરક્ષિત ઓર્ડર બુકિંગ, હિસાબ ડાયરી, ગુજરાતી બીલ જનરેટર, સ્ટાફ ઉપાડ અને એન્ડ્રોઇડ એપ પ્રોજેક્ટ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

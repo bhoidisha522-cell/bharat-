@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">I. S. K Sound &amp; Live DJ – ઓર્ડર બુક ડાયરી</string>
+    <string name="owner_name">ભરત કે. (Bharat K)</string>
+    <string name="authorized_mobile">9624235014</string>
+    <string name="business_tagline">ઓર્ડર બુક ડાયરી અને ડિજિટલ હિસાબ</string>
+    <string name="login_title">સુરક્ષિત મોબાઇલ લૉગિન</string>
+    <string name="otp_hint">૬-આંકડાનો OTP દાખલ કરો</string>
+    <string name="unauthorized_error">ક્ષમા કરશો! ફક્ત અધિકૃત માલિક (ભરત કે. - 9624235014) જ આ એપ ખોલી શકે છે.</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <color name="navy_primary">#070D1E</color>
+    <color name="navy_surface">#0D1933</color>
+    <color name="gold_accent">#D4AF37</color>
+    <color name="gold_light">#F3C64C</color>
+    <color name="text_white">#F8FAFC</color>
+    <color name="text_gray">#94A3B8</color>
+</resources>
